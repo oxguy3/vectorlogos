@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="400" height="400">
+  <path style="fill:#00a1e1" d="M 0,0 0,275 275,0 Z"/>
+  <path style="fill:#d9232e" d="M 275,0 0,275 0,400 125,400 400,125 400,0 Z"/>
+  <path style="fill:#fd8204" d="m 400,125 -275,275 275,0 z"/>
+  <path style="fill:#ffffff" d="m 34,143 0,114 38,0 0,-26 53,0 0,-62 -26,-26 z"/>
+  <path style="fill:#ffffff" d="m 190,143 -56,88 26,26 60,0 26,-26 z"/>
+  <path style="fill:#ffffff" d="m 278,143 -26,26 31,31 -31,31 26,26 31,-31 31,31 26,-26 -31,-31 31,-31 -26,-26 -31,31 z"/>
+</svg>
